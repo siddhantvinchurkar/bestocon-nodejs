@@ -1,0 +1,39 @@
+{
+  "name": "bestocon-nodejs",
+  "version": "1.0.0",
+  "description": "BestoCon NodeJS Website",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "next": "^9.3.6",
+    "react-dom": "^16.13.1",
+    "react": "^16.13.1",
+    "react-helmet": "^6.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start -p 1020"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddhantvinchurkar/bestocon-nodejs.git"
+  },
+  "keywords": [
+    "bestocon",
+    "expert",
+    "best",
+    "of",
+    "content"
+  ],
+  "author": "Siddhant Vinchurkar",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/siddhantvinchurkar/bestocon-nodejs/issues"
+  },
+  "homepage": "https://github.com/siddhantvinchurkar/bestocon-nodejs#readme"
+}
